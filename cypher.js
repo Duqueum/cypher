@@ -37,21 +37,13 @@ function switchAb(key1)
 
 function cypher(){
     var message = document.getElementById("message").value;
-    //var key = validKey(document.getElementById("key")) + 1;
     var key = Number(document.getElementById("key").value) ;
-    //var a = (Number(txtFat.value));
-     alphabet = ['a','b', 'c', 'd','e','f', 'g', 'h','i','j', 'k', 'l','m','n', 'o', 'p','q','r', 's', 't','u','v', 'w', 'x','y','z'];
+    alphabet = ['a','b', 'c', 'd','e','f', 'g', 'h','i','j', 'k', 'l','m','n', 'o', 'p','q','r', 's', 't','u','v', 'w', 'x','y','z'];
 
     var E = switchAb(key);
-    //message = switchMsg(E, message);
     var aux = "a";
     for(var i = 0; i < message.length ; i++)
     {   
-        /*
-        console.log(alphabet.indexOf(message[i]));
-        aux =E[alphabet.indexOf(message[i])]);
-        message[i] = E[alphabet.indexOf(message[i])];
-        */
         if (message[i] !=  ' ')
             message = message.replace(message[i], E[alphabet.indexOf(message[i])] );
         console.log(message);
