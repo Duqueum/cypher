@@ -14,7 +14,7 @@
 - [ ] Create a nice interface in html
 
 ## Prerequisites
-To begin coding, you have to install [Git] (https://git-scm.com/). It´s recommended to use [VSCode](https://code.visualstudio.com/).
+To begin coding, you have to install [Git](https://git-scm.com/). It´s recommended to use [VSCode](https://code.visualstudio.com/).
 
 ## Author
 Made by João Vitor Duque on Sunday afternoons.
