@@ -6,8 +6,8 @@
 ## Status
 - [ ] Caesar cypher
     - [x] Create a cypher function
-    - [ ] Create a decypher function
--[ ] Matrix criptography
+    - [ ] Create a decypher function 
+- [ ] Matrix criptography
     - [ ] Create cypher function
     - [ ] Create decypher function
     - [ ] Implement matrix criptography on html
