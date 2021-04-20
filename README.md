@@ -1,7 +1,7 @@
 # Cypher
 
 ## About
- This project have the objective of improve mathematical knowledge using JS. Also aims to pratice git commands.
+ The goal of this project is to improve mathematical knowledge using JS and HTML. Also aims to pratice git commands.
 
 ## Status
 - [ ] Caesar cypher
@@ -11,7 +11,7 @@
     - [ ] Create cypher function
     - [ ] Create decypher function
     - [ ] Implement matrix criptography on html
-- [ ] Create a interface in html
+- [ ] Create a nice interface in html
 
 ## Prerequisites
 To begin coding, you have to install [Git] (https://git-scm.com/). It´s recommended to use [VSCode](https://code.visualstudio.com/).
