@@ -4,8 +4,13 @@
  This project have the objective of improve mathematical knowledge using JS. Also aims to pratice git commands.
 
 ## Status
-- [x] Create a cypher function
-- [ ] Create a decypher function
+- [ ] Caesar cypher
+    - [x] Create a cypher function
+    - [ ] Create a decypher function
+-[ ] Matrix criptography
+    - [ ] Create cypher function
+    - [ ] Create decypher function
+    - [ ] Implement matrix criptography on html
 - [ ] Create a interface in html
 
 ## Prerequisites
